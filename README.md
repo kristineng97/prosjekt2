@@ -1,7 +1,7 @@
-# prosjekt2
+# Prosjekt 2 - generere tekst med GPT-2
 
 ## Hvor mye skal vi følge strukturen i oppgaven? 
-I stor grad. Ta oss litt friheter når det gjelder å generere tekst - teste på ting som ikke er like USA-sentrerte. Gjøre filosofi-/etikkdelen litt annerledes. 
+I stor grad. Gjøre filosofi-/etikkdelen litt annerledes. 
 
 ## Fremdriftsplan
 | Dato            | Hva skal gjøres?                         | Hvem har ansvar? |
